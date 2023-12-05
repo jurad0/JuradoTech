@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    min-height: 100vh;
+    background-color: #333333 !important;
+}
+
+button {
+    background-color: #48E5C2 !important;
+}
+
+.button {
+    background-color: #48E5C2 !important;
+    border: 0;
+}
+
+
+
+@media (min-width: 600px) {
+    .section-main {
+        border-left: 1px solid rgb(197, 197, 197);
+        border-right: 1px solid rgb(197, 197, 197);
+    }
+}
